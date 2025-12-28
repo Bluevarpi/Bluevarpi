@@ -2,6 +2,10 @@
 
 I'm an undergraduate student majoring in **Mathematics and Applied Mathematics**, with a strong passion for **Pure Mathematics** — especially **Algebra**.
 
+<p align="center">
+  <img src="math.jpg" alt="banner" width="80%" />
+</p>
+
 ## 🎓 Education
 - **Shenzhen MSU-BIT University (МГУ-ППИ)** — *B.S. candidate*  
   *Computational Mathematics and Cybernetics (Факультет вычислительной математики и кибернетики, ВМК)*  
@@ -20,8 +24,8 @@ I'm an undergraduate student majoring in **Mathematics and Applied Mathematics**
 - **LaTeX**
 
 ## 📫 Contact
-- Email1: [School](1120230002@smbu.edu.cn)
-- Email2: [QQ](3065842149@qq.com)
+- Email1 (School): [1120230002@smbu.edu.cn](mailto:1120230002@smbu.edu.cn)
+- Email2 (QQ): [3065842149@qq.com](mailto:3065842149@qq.com)
 
 ---
 
