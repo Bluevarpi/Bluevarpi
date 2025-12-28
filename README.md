@@ -10,8 +10,8 @@ I'm an undergraduate student majoring in **Mathematics and Applied Mathematics**
   Website: [Shenzhen MSU-BIT University](https://en.smbu.edu.cn/)
 
 ## 🔍 Research Interests
-- **Commutative Algebra** (交换代数)
-- **Algebraic Number Theory** (代数数论)
+- **Commutative Algebra**
+- **Algebraic Number Theory**
 - Related topics in **Algebra** and **Pure Mathematics**
 
 ## 🛠️ Skills / Tools
