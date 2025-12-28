@@ -2,6 +2,8 @@
 
 I'm an undergraduate student majoring in **Mathematics and Applied Mathematics**, with a strong passion for **Pure Mathematics** — especially **Algebra**.
 
+📚 I also write about mathematics on **Zhihu**: [Xigmatau](https://www.zhihu.com/people/Xigmatau) — articles and answers on math topics.
+
 <p align="center">
   <img src="math.jpg" alt="banner" width="80%" />
 </p>
