@@ -16,8 +16,8 @@ I'm an undergraduate student majoring in **Mathematics and Applied Mathematics**
   Website: [Shenzhen MSU-BIT University](https://en.smbu.edu.cn/)
 
 ## 🔍 Research Interests
-- **Commutative Algebra**
 - **Algebraic Number Theory**
+- **Algebraic Geometry**
 - Related topics in **Algebra** and **Pure Mathematics**
 
 ## 🛠️ Skills / Tools
