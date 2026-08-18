@@ -11,7 +11,7 @@ I'm an undergraduate student majoring in **Mathematics and Applied Mathematics**
 ## 🎓 Education
 - **Shenzhen MSU-BIT University (МГУ-ППИ)** — *B.S. candidate*  
   *Computational Mathematics and Cybernetics (Факультет вычислительной математики и кибернетики, ВМК)*  
-  Major: **Mathematics and Applied Mathematics *(Прикладная математика и информатика)***  
+  Major: **Mathematics and Applied Mathematics *(Прикладная математика и информатика, ПМИ)***  
   **2023 – 2027 (expected)**  
   Website: [Shenzhen MSU-BIT University](https://en.smbu.edu.cn/)
 
