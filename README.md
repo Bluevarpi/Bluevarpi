@@ -24,6 +24,8 @@ I'm an undergraduate student majoring in **Mathematics and Applied Mathematics**
 - **C / C++**
 - **Python**
 - **LaTeX**
+- **Mathematica**
+- **MATLAB**
 
 ## 📫 Contact
 - Email1 (School): [1120230002@smbu.edu.cn](mailto:1120230002@smbu.edu.cn)
